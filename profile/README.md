@@ -6,8 +6,9 @@
 
 :wave: Esse é um projeto feito para ajudar pessoas com problemas para gerenciar suas receitas e despesas, assim dando um controle online sobre o que você recebeu e gastou no seu mês.
 
-- [:computer: Nossa Plataforma](https://finances-app-two.vercel.app/)
-- [:heart: Seja um Patrocinador](https://github.com/sponsors/TiaGoiNsaNy/)
-- [:envelope: Mande um E-mail](maito:tiagoinsany@gmail.com)
+:wrench: Contribua com o nosso projeto:
+- [:computer: Nosso Website](https://github.com/FinancesApp/website)
+- [:satellite: Nossa API](https://github.com/FinancesApp/api)
 
+---
 Feito com :heart: por [Tiago Ryan](https://github.com/TiaGoiNsaNy).
